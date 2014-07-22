@@ -2,7 +2,17 @@ Data Science New Job Locations
 
 ----------------------------------------
 
-Project to identify the location of new DS jobs in the US.
+This Project is to indentify metrics on where the best places to live would
+be to start a company or find work as a data scientist. Parts of the project:
+
+1) Using LinkedIn jobs page to indentify to places to work
+2) Using INC 5000 to indentify cities with fast growing businesses
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+PROJECT 1
+
+Identify the location of new DS jobs in the US.
 
 Data was scrapped using 'import.io' from LinkedIn's Job Search Page.
 
@@ -33,3 +43,13 @@ Palo Alto. After that, the order goes as follows:
 
 After Philadelphia, the number of relevant postings and jobs decrease
 dramatically,
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+PROJECT 2
+
+Rank top cities by the number of INC 500 companies located within r
+miles of the city center.
+
+
+
+
