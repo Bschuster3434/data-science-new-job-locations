@@ -50,6 +50,38 @@ PROJECT 2
 Rank top cities by the number of INC 500 companies located within r
 miles of the city center.
 
+--RESULT--
+
+Overall, The top cities are very similar to the top cities in Project 1.
+In order, the top INC 5000 cities within 30 miles are:
+
+1) Washington, DC
+2) New York, NC
+3) Chicago, IL
+4) Atlanta, GA
+5) Los Angeles, CA
+6) Boston, MA
+7) San Francisco, CA
+8) Philadelphia, PA
+9) San Jose, CA
+10) Seattle, WA
+
+When looking industry specific, there are certain cities that seem to have
+specialities, San Francisco and San Jose Included. There are a few cities
+that appear 'well rounded', including WAshington, DC, Chicago, IL,
+New York, NY and Boston, MA.
+
+I will continue to analyze my results in excel, particularly industry specifc
+INC 5000 businesses.
+
+In the future, I would attempt to find a better measure than city, state
+coordinates to track businesses. These numbers are estimates of the city
+state coordiantes, which could be largely different than where a particular
+business is located. Going forward, I would use actual addresses to re-do this
+analysis.
+
+
+
 
 
 
