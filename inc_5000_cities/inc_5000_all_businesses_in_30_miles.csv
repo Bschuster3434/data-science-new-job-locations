@@ -1,35 +1,35 @@
 coded_city_state,city,state,Number of INC 5000 Businesses in 30 Miles
-"San+Diego,+CA",San Diego,California,90
-"Las+Vegas,+NV",Las Vegas,Nevada,21
-"San+Jose,+CA",San Jose,California,116
-"Detroit,+MI",Detroit,Michigan,79
-"Columbus,+OH",Columbus,Ohio,42
-"Cleveland,+OH",Cleveland,Ohio,61
-"Austin,+TX",Austin,Texas,97
-"Omaha,+NE",Omaha,Nebraska,16
-"Philadelphia,+PA",Philadelphia,Pennsylvania,130
-"Indianapolis,+IN",Indianapolis,Indiana,37
-"San+Antonio,+TX",San Antonio,Texas,23
-"Madison,+WI",Madison,Wisconsin,12
-"Salt+Lake+City,+UT",Salt Lake City,Utah,76
-"Milwaukee,+WI",Milwaukee,Wisconsin,44
-"Oklahoma+City,+OK",Oklahoma City,Oklahoma,28
-"Orlando,+FL",Orlando,Florida,32
-"Los+Angeles,+CA",Los Angeles,California,174
-"New+York,+NY",New York,New York,316
-"Atlanta,+GA",Atlanta,Georgia,181
-"Tampa,+FL",Tampa,Florida,61
-"Grand+Rapids,+MI",Grand Rapids,Michigan,19
-"Chicago,+IL",Chicago,Illinois,219
-"Hartford,+CT",Hartford,Connecticut,19
-"Portland,+OR",Portland,Oregon,49
-"Charlotte,+NC",Charlotte,North Carolina,51
-"Minneapolis,+MN",Minneapolis,Minnesota,78
-"Pittsburgh,+PA",Pittsburgh,Pennsylvania,26
-"Raleigh,+NC",Raleigh,North Carolina,44
-"Seattle,+WA",Seattle,Washington,113
-"San+Francisco,+CA",San Francisco,California,165
-"Boston,+MA",Boston,Massachusetts,168
-"Miami,+FL",Miami,Florida,67
-"Sacramento,+CA",Sacramento,California,19
 "Washington,+DC",Washington,District of Columbia,348
+"New+York,+NY",New York,New York,316
+"Chicago,+IL",Chicago,Illinois,219
+"Atlanta,+GA",Atlanta,Georgia,181
+"Los+Angeles,+CA",Los Angeles,California,174
+"Boston,+MA",Boston,Massachusetts,168
+"San+Francisco,+CA",San Francisco,California,165
+"Philadelphia,+PA",Philadelphia,Pennsylvania,130
+"San+Jose,+CA",San Jose,California,116
+"Seattle,+WA",Seattle,Washington,113
+"Austin,+TX",Austin,Texas,97
+"San+Diego,+CA",San Diego,California,90
+"Detroit,+MI",Detroit,Michigan,79
+"Minneapolis,+MN",Minneapolis,Minnesota,78
+"Salt+Lake+City,+UT",Salt Lake City,Utah,76
+"Miami,+FL",Miami,Florida,67
+"Cleveland,+OH",Cleveland,Ohio,61
+"Tampa,+FL",Tampa,Florida,61
+"Charlotte,+NC",Charlotte,North Carolina,51
+"Portland,+OR",Portland,Oregon,49
+"Milwaukee,+WI",Milwaukee,Wisconsin,44
+"Raleigh,+NC",Raleigh,North Carolina,44
+"Columbus,+OH",Columbus,Ohio,42
+"Indianapolis,+IN",Indianapolis,Indiana,37
+"Orlando,+FL",Orlando,Florida,32
+"Oklahoma+City,+OK",Oklahoma City,Oklahoma,28
+"Pittsburgh,+PA",Pittsburgh,Pennsylvania,26
+"San+Antonio,+TX",San Antonio,Texas,23
+"Las+Vegas,+NV",Las Vegas,Nevada,21
+"Grand+Rapids,+MI",Grand Rapids,Michigan,19
+"Hartford,+CT",Hartford,Connecticut,19
+"Sacramento,+CA",Sacramento,California,19
+"Omaha,+NE",Omaha,Nebraska,16
+"Madison,+WI",Madison,Wisconsin,12
