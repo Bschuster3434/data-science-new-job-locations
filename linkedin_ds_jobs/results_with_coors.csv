@@ -1,0 +1,29 @@
+city,state,results,population,jobs_per_100000,count_relevant_sample_jobs,state abbr,g_city,g_coor_key,city_lat,city_lon
+San Diego,California,606.0,1355896.0,44.69369332,1.0,+CA,"San+Diego,","San+Diego,+CA",32.715738,-117.1610838
+Las Vegas,Nevada,62.0,603488.0,10.27360942,0.0,+NV,"Las+Vegas,","Las+Vegas,+NV",36.1699412,-115.1398296
+San Jose,California,3355.0,998537.0,335.9915556,5.0,+CA,"San+Jose,","San+Jose,+CA",37.3393857,-121.8949555
+Detroit,Michigan,361.0,688701.0,52.41752226,0.0,+MI,"Detroit,","Detroit,+MI",42.331427,-83.0457538
+Columbus,Ohio,233.0,822553.0,28.32644219,0.0,+OH,"Columbus,","Columbus,+OH",39.9611755,-82.99879419999999
+Cleveland,Ohio,178.0,390113.0,45.62780528,2.0,+OH,"Cleveland,","Cleveland,+OH",41.49932,-81.6943605
+Austin,Texas,541.0,885400.0,61.10232663,2.0,+TX,"Austin,","Austin,+TX",30.267153,-97.7430608
+Omaha,Nebraska,165.0,434353.0,37.98753548,0.0,+NE,"Omaha,","Omaha,+NE",41.2523634,-95.99798829999999
+Philadelphia,Pennsylvania,709.0,1553165.0,45.64872374,3.0,+PA,"Philadelphia,","Philadelphia,+PA",39.952335,-75.16378900000001
+Indianapolis,Indiana,278.0,843393.0,32.96209478,1.0,+IN,"Indianapolis,","Indianapolis,+IN",39.768403,-86.158068
+San Antonio,Texas,250.0,1409019.0,17.74284094,0.0,+TX,"San+Antonio,","San+Antonio,+TX",29.4241219,-98.49362819999999
+Madison,Wisconsin,127.0,243344.0,52.18949306,1.0,+WI,"Madison,","Madison,+WI",43.0730517,-89.4012302
+Salt Lake City,Utah,187.0,191180.0,97.81357883,1.0,+UT,"Salt+Lake+City,","Salt+Lake+City,+UT",40.7607793,-111.8910474
+Milwaukee,Wisconsin,150.0,599164.0,25.03488194,2.0,+WI,"Milwaukee,","Milwaukee,+WI",43.0389025,-87.9064736
+Oklahoma City,Oklahoma,117.0,610613.0,19.16107256,0.0,+OK,"Oklahoma+City,","Oklahoma+City,+OK",35.4675602,-97.5164276
+Orlando,Florida,141.0,255483.0,55.18958209,0.0,+FL,"Orlando,","Orlando,+FL",28.5383355,-81.3792365
+Los Angeles,California,976.0,3884307.0,25.12674719,5.0,+CA,"Los+Angeles,","Los+Angeles,+CA",34.0522342,-118.2436849
+New York,New York,2669.0,8405837.0,31.75174584,6.0,+NY,"New+York,","New+York,+NY",40.7127837,-74.0059413
+Atlanta,Georgia,785.0,447841.0,175.285425,5.0,+GA,"Atlanta,","Atlanta,+GA",33.7489954,-84.3879824
+Tampa,Florida,147.0,352957.0,41.64813278,1.0,+FL,"Tampa,","Tampa,+FL",27.950575,-82.4571776
+Grand Rapids,Michigan,44.0,192294.0,22.88162917,0.0,+MI,"Grand+Rapids,","Grand+Rapids,+MI",42.9633599,-85.6680863
+Chicago,Illinois,1118.0,2718782.0,41.12135508,5.0,+IL,"Chicago,","Chicago,+IL",41.8781136,-87.6297982
+Hartford,Connecticut,183.0,125017.0,146.38009230000003,1.0,+CT,"Hartford,","Hartford,+CT",41.76371109999999,-72.6850932
+Portland,Oregon,320.0,609456.0,52.50584127,0.0,+OR,"Portland,","Portland,+OR",45.5234515,-122.6762071
+Charlotte,North Carolina,202.0,792862.0,25.477321399999997,2.0,+NC,"Charlotte,","Charlotte,+NC",35.2270869,-80.8431267
+Minneapolis,Minnesota,371.0,400070.0,92.73377159,0.0,+MN,"Minneapolis,","Minneapolis,+MN",44.983334,-93.26666999999999
+Pittsburgh,Pennsylvania,248.0,305841.0,81.08788554,1.0,+PA,"Pittsburgh,","Pittsburgh,+PA",40.44062479999999,-79.9958864
+Raleigh,North Carolina,522.0,431746.0,120.90442069999999,0.0,+NC,"Raleigh,","Raleigh,+NC",35.7795897,-78.6381787
